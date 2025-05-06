@@ -1,0 +1,162 @@
+{  "equi" : [
+        {
+         "sn": "1.",
+         "particulars": "Laptops",
+         "quantities": 7,
+         "specifications": "- Macbook Pro 13   - Lenovo 80Q7 - i7 processor  - HP laptop Intel core i7 processor - HP Omen - i7 processor  - Dell E6440 i5 processor   - Dell – Inspiron15  - Lenovo i5 processor"
+        },
+         
+        {
+         "sn": "2.",
+         "particulars": "Acer Projector X1123 HP DLP Projector, AAP",
+         "quantities": 1,
+         "specifications": "-focused and clear at up to 4,000 lumens and an impressive 20,000:1 contrast ratio - Acer LumiSense™ & BlueLightShield™,"
+        },
+         
+        {
+         "sn": "3.",
+         "particulars": "Monitor",
+         "quantities": 3,
+         "specifications": "- Samsung Syncmaster P2350,   - Dell 27” LED 1080p,  - Dell 27” LED 1080p,  - Dell 27” LED 1080p"
+        },
+        
+        {
+         "sn": "4",
+         "particulars": "CPU",
+         "quantities": 1,
+         "specifications": "MSI Bonker Casing,  Ram Chip 16GB, Hard Disk 2TB, MSI Motherboard, MSI Graphic Card (VGA) GTX  "
+        },
+         
+        {
+         "sn": "5",
+         "particulars": "CPU",
+         "quantities": 1,
+         "specifications": "Pentium IV Dual Core processor"
+        },
+        {
+         "sn": "6",
+         "particulars": "Printer",
+         "quantities": 1,
+         "specifications": "Brother DCP-L2540DW"
+        },
+
+
+        {
+         "sn": "7",
+         "particulars": "Mobile Phone",
+         "quantities": 4,
+         "specifications": "Samsung M20 ,  Xiaomi Mi Redmi Note 9 pro,  Xiaomi Mi Redmi Note 9 A Xiaomi Mi Redmi Note 9 A Xiaomi Mi POCO X3 "
+        },
+         
+        {
+         "sn": "8",
+         "particulars": "Spiral Machine",
+         "quantities": 1,
+         "specifications": "A4 Spiral"
+        },
+        {
+         "sn": "9",
+         "particulars": "Geographic Positioning System (GPS)",
+         "quantities": 6,
+         "specifications": "Garmin 62SC with camera"
+        },
+        
+        {
+         "sn": "10",
+         "particulars": "Abney Level ",
+         "quantities": 1,
+         "specifications": "Abney Level with clinometer 804715"
+        },
+        {
+         "sn": "11",
+         "particulars": "Working Table",
+         "quantities": 8,
+         "specifications": "QnU Book Table,reading Table, Desktop Table "
+        },
+         
+        {
+         "sn": "12",
+         "particulars": "Office Rack",
+         "quantities": 1,
+         "specifications": "3 Layers"
+        },
+        {
+         "sn": "13.",
+         "particulars": "Show Case Rack",
+         "quantities": 2,
+         "specifications": "2 Doors and 3 Layers"
+        },
+        {
+         "sn": "14.",
+         "particulars": "Book Case",
+         "quantities": 1,
+         "specifications": "3 Layers"
+        },
+        {
+         "sn": "15.   ",
+         "particulars": "Office Chair",
+         "quantities": 10,
+         "specifications": "Metal\/ Synthetic"
+        },
+        {
+         "sn": "16.   ",
+         "particulars": "Two Wheelers.",
+         "quantities": 4,
+         "specifications": "Yamaha FZ15 ,Honda Aviator, TVS Jupiter ,  Honda Unicorn "
+        }
+
+
+
+
+
+
+        
+        
+       ],
+
+
+
+
+  
+ "cam" : [
+    {
+     "sn": "1.",
+     "particulars": "Canon EOS 5D Mark IV",
+     "lens": "EF 50mm STM f1.8" 
+    },
+    {
+        "sn": "2.",
+        "particulars": "Canon EOS 80D",
+        "lens": "EFs 18-135mm"
+       },
+       {
+        "sn": "3.",
+        "particulars": "Canon EOS Rebel T3i",
+        "lens": "EFs 18-135mm,  EFs 55-250mm"
+    
+       },
+       {
+        "sn": "4.",
+        "particulars": "Nikon D3200",
+        "lens": "Tamron 70-300mm f4-5.6"
+       },
+       {
+        "sn": "5.",
+        "particulars": "Gopro Hero 4 Session",
+        "lens": "Fixed Lens f2.8"
+       }
+     
+   
+
+
+
+
+
+
+    
+    
+   ]
+
+} 
+
+ 

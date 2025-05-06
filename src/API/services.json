@@ -1,0 +1,50 @@
+{
+  "services": [
+    {
+      "name": "Environmental Assessments and Geology",
+      "serviceId": 1,
+      "description": " BES, IEE, EIA, SIA, SEA, Environmental Auditing, MP preparation, Geological and Geo hazard Assessments."
+    },
+    {
+      "name": "Engineering and Infrastructure",
+      "serviceId": 2,
+      "description": "Detail Project Report and Detailed Architectural Drawings, Detailed Cost Estimate and BoQ preparation, Transport Management Plan."
+    },
+    {
+      "name": "Disaster Risk Reduction and Management Planning",
+      "serviceId": 3,
+      "description": "Nature Based Solution Study and Assessments, Climate Resilience Planning , LAPA, LDCRP, Vulnerability and Adaptation Assessment, Capacity Building."
+    },
+    {
+      "name": "Monitoring and Evaluation",
+      "serviceId": 4,
+      "description": "Baseline, Midline, End line survey , Outcome Assessment and Evaluation."
+    },
+    {
+      "name": "Development Planning",
+      "serviceId": 5,
+      "description": "Tourism Development Plan, Periodic Development Plan, Water Use Master Plan, Solid Waste Assessment and Management Plan, WASH Plans, Local level Plans focusing on LISA guideline of MoFAGA, RSLUP."
+    },
+
+    {
+
+      "name": "GIS and RS and ICT",
+      "serviceId": 6,
+      "description": "GIS and RS based Spatial Plan, Overall Spatial Mapping and Analysis, Digital Profile and Planning"
+    },
+    
+    {
+      "name": "Biodiversity and Ecosystem",
+      "serviceId": 7,
+      "description": "Human wildlife Conflict study, Wildlife Assessments and Management Plan, habitat Suitability assessment, Training and capacity building on wildlife crime and conflict management"
+    },
+
+    {
+      "name": "GEDSI Assessment and Planning",
+      "serviceId": 8,
+      "description": "GEDSI assessment and planning refer to processes aimed at ensuring that programs, projects, or services are inclusive and address the needs of diverse groups"
+    }
+     
+    
+  ]
+}

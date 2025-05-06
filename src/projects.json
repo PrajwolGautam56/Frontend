@@ -1,0 +1,728 @@
+{
+    "projects": [
+
+      {
+        "namw": "Status of Climate Finance in Nepal and Development of Climate Resilience Strategy for OXFAM in Nepal",
+        "client": "OXFAM in Nepal",
+        "Budget": 794390,
+        "date": "2080/81"
+      },
+      {
+        "namw": "Research on Nexus between Climate and Development in Nepal",
+        "client": "DCA Nepal",
+        "Budget": 372900,
+        "date": "2080/81"
+      },
+      {
+        "namw": "Research on Strengthening Disaster preparedness of local government in Karnali Province, Impact of Climate Change and Food System in Urban Center of Nepal, Sustainable development in Mahakali River Basin",
+        "client": "DCA Nepal",
+        "Budget": 1292000,
+        "date": "2080/81"
+      },
+      {
+        "namw": "Two days Knowledge Sharing to local government officials on Climate Change Updates & Gender Responsive Budgeting",
+        "client": "RDC Nepal/OXFAM",
+        "Budget": 74415,
+        "date": "2080/81"
+      },
+      {
+        "namw": "Assessment of the State of Ecosystem Services and Identification of the Major Threats and Socio-Economic Barriers to the Conservation of the Mutani Khola Watershed, Siraha District, Nepal",
+        "client": "CARE Nepal",
+        "Budget": 577200,
+        "date": "2080/81"
+      },
+      {
+        "namw": "Tracking Disaster Risk Reduction Finance Flow in Nepal",
+        "client": "OXFAM in Nepal",
+        "Budget": 841850,
+        "date": "2080/81"
+      },
+      {
+        "namw": "DRR Governance and Data Collection at Provinces",
+        "client": "Mercy Corps Nepal",
+        "Budget": 363499,
+        "date": "2080/81"
+      },
+      {
+        "namw": "Assessment and Training Package on Climate Change Adaptation and Nature- Based Solutions (NbS)",
+        "client": "IFRC/British Redcross funded",
+        "Budget": 1808565,
+        "date": "2080/81"
+      },
+    {
+      "namw": "Piloting Low-Cost Landslide Risk Assessment and development of contingency plan/ DPRP revision of Sanni-tribeni rural municipality, Kalikot District",
+      "client": "NRCS Surkhet/Swiss Funded",
+      "Budget": 1987670,
+      "date": "2080/81"
+    },
+    {
+      "namw": "Simulation Exercise at three working palikas(Annapurna RM, Madi RM and Maiwakhola RM",
+      "client": "Gorkha Welfare Trust Nepal",
+      "Budget": 315000,
+      "date": "2080/81"
+    },
+    {
+      "namw": "Review and Formulation of Policy related to Climate Change and Disaster Management at the local level",
+      "client": "RDC Nepal/OXFAM in Nepal",
+      "Budget": 257933,
+      "date": "2080/81"
+    },
+    {
+      "namw": "Preparation of Disaster Preparedness and Response Plan Yangwarak Rural Municipality, Panchthar-Koshi province",
+      "client": "Yangwarak Rural Municipality",
+      "Budget": 1196670,
+      "date": "2080/81"
+    },
+    {
+      "namw": "Flood/Inundation Hazard Mapping and Overland Water Flow Modelling of West Rapti Basin",
+      "client": "CRS Nepal",
+      "Budget": 1824385,
+      "date": "2080/81"
+    },
+    {
+      "namw": "Outocme Survey of Climate Adaptation Interventions",
+      "client": "Tayar Nepal/USAID",
+      "Budget": 2141632.50,
+      "date": "2080/81"
+    },
+    {
+      "namw": "Technical Report Write up for Initial Environment Examination of 15 different Specified Road under RCIP-GoN",
+      "client": "RCIP-ADB funded Sub-Contract with Inclusive-ITECO JV",
+      "Budget": 600000,
+      "date": "2080/81"
+    },
+    {
+      "namw": "After Action review Guideline Preparation During Year Two to review the Effectiveness of Emergency Response At the local Level led by the Local Disaster management Committee(LDMC)",
+      "client": "Mercy Corps/USAID",
+      "Budget": 459910,
+      "date": "2080/81"
+    },
+    {
+      "namw": "Detailed Project Report and BES Study Report Preparation For Construction Of Administrative Building Of Bhumlu RM",
+      "client": "Bhumlu RM, Kavrepalanchowk",
+      "Budget": 1998000,
+      "date": "2080/81"
+    },
+    {
+      "namw": "Preparation Of Project Document and Baseline Report for The Proposed Project Nature Based Solutions (Nbs) For Resilient Lower Narayani Basin in Nepal",
+      "client": "WWF Nepal /DANIDA Funded",
+      "Budget": 2999693,
+      "date": "2080/81"
+    },
+    {
+      "namw": "Review of Legal Policy Framework and Capacity Assessment Related to Natural Resource Safeguards in Linear Infrastructure",
+      "client": "WWF Nepal/USAID Funded-ALIGN Project",
+      "Budget": 3067950,
+      "date": "2080/81"
+    },
+   
+  
+  
+  
+  {
+    "namw": "Final Evaluation and End-Line Survey – Food Security Enhancement and Agriculture Resilience of Earthquake Affected Rural Nepalese Farmers, Phase-II (FOSTER-II) Project",
+    "client": "ADRA Nepal",
+    "Budget": 742410,
+    "date": "2080/81"
+  },
+  {
+    "namw": "DPRP review and update of 3 paliaks of Surkhet along with update of DPRP of Surkhet District",
+    "client": "BNA /Mercy Corps-USAID Funded",
+    "Budget": 380810,
+    "date": "2080/81"
+  },
+  {
+    "namw": "DPRP Preparation/Udpate of two Paliaks of Jumla Distrcit",
+    "client": "KIRDARC-/Mercy Corps-USAID Funded",
+    "Budget": 198880,
+    "date": "2080/81"
+  },
+  {
+    "namw": "Development of Local Adaptation Plan of Action of Mugum Karmarog RM",
+    "client": "Mott Macdonald / Mugum Karmarog RM, Pulu-Mugu, Karnali province",
+    "Budget": 400000,
+    "date": "2079/80"
+  },
+  {
+    "namw": "Assessment of Waste Management And Recommend Practical Solutions At The Local Level Of Doti And Bajhang Districts in the CLIMATES project area",
+    "client": "United Mission to Nepal",
+    "Budget": 639787,
+    "date": "2079/80"
+  },
+  
+      {
+        "Name": 1,
+        "namw": "Assessment of Waste Management And Recommend Practical Solutions At The Local Level Of Doti And Bajhang Districts in the CLIMATES project area",
+        "client": "United Mission to Nepal",
+        "date": "2079/80"
+      },
+      {
+        "Name": 2,
+        "namw": "Perdiodic Development Plan Preparation of Panchkhapan Municipality,Sankhuwasabha",
+        "client": "Panchkhapan Municipality,Wana Sankhuwasabha-Koshi Province-GoN",
+        "date": "2079/80"
+      },
+      {
+        "Name": 3,
+        "namw": "GIS and RS based Spatial Plan of BethanChowk Rural Municipality",
+        "client": "Bethanchowk RM, Kavrepalanchwok- Bagnmati Province-GoN",
+        "date": "2079/81"
+      },
+      {
+        "Name": 4,
+        "namw": "Disaster Needs Assessment of Thalara Rural Municipality along with KAP Survey and GIS Mapping of three selected wards and Disaster Preparedness and Response Plan of Thalara RM-Bajhang",
+        "client": "Progressive Youth Spciety-Bajhang /UMN Funded",
+        "date": "2079/82"
+      },
+      {
+        "Name": 5,
+        "namw": "“Training to key CRS staffs on flying drones and use the image products for damage assessment and risk visualization form",
+        "client": "Makalu RM-Num, Sankhuwasabha-Koshi Province",
+        "date": "2079/83"
+      },
+      {
+        "Name": 6,
+        "namw": "Detailed Project Report Preparation of 23 km roads of Makalu RM(Naba Gaun- Nurbu Gaun -Nurbu Chaur Road)",
+        "client": "Makalu RM-Num, Sankhuwasabha-Koshi Province",
+        "date": "2079/84"
+      },
+      {
+        "Name": 7,
+        "namw": "DPRP preparation of Godaita Municipality(Sarlahi), Sunachari RM(Rolpa) and Sandikharka Municpality(Arghakhanchi)",
+        "client": "Nepal Redcross Society National Headquarters/UNFPA Funded",
+        "date": "2079/85"
+      },
+      {
+        "Name": 8,
+        "namw": "Multi Hazard Risk Modelling of Project Working Municipalities (Besishahar Municipality, Sundarbazar Municipality, Dordi Rural Municipality and Marshyangdi Rural Municipality)",
+        "client": "Rural Community Development Centre- Lamjung/CRS funded",
+        "date": "2079/80"
+      },
+      {
+        "Name": 9,
+        "namw": "Conducting Environmental and Climate Change Adaptation Review",
+        "client": "Heifer Project International Nepal/USAID Funded",
+        "date": "2079/80"
+      },
+      {
+        "Name": 10,
+        "namw": "Environment Impact Assesments of BHAKARI Activities",
+        "client": "USAID/Mercy Corps Nepal",
+        "date": "2079/80"
+      },
+      {
+        "Name": 11,
+        "namw": "Tiger Conservation in Banke Complex: Acommunity Perspective Understanding Social Impacts and Social Sentiments ( NP12777)",
+        "client": "WWF,Nepal/USAID",
+        "date": "2079/80"
+      },
+      {
+        "Name": 12,
+        "namw": "Prepare   Disaster   Preparedness   and   Response   Plan   (DPRP)   in   selected municipalities  (Khandachakra  Municipality,  Suvakalika  and  Mahawai  Rural Municipality) of Kalikot district",
+        "client": "HuRENDEC-Mercy   Corps    BHAKARI Program USAID Funded",
+        "date": "2079/80"
+      },
+      {
+        "Name": 13,
+        "namw": "Prepare  Disaster   Preparedness  and  Response  Plan   (DPRP)   of  BHAKARI working Palikas (Barahtal,Chaukune and Panchapuri) of Surkhet District",
+        "client": "Sundar    Nepal    Sanstha-Mercy    Corps- BHAKARI Program USAID Funded",
+        "date": "2079/80"
+      },
+      {
+        "Name": 14,
+        "namw": "Preparation  of  Disaster  Risk  Reduction  Policy  and  Strategic  Action  Plan  of Parsa Rural Municipality,Sarlahi-Madhesh Province",
+        "client": "Parsa Rural Municipality, Sarlahi-GoN",
+        "date": "2078/79"
+      },
+      {
+        "Name": 15,
+        "namw": "Development of Guideline for-Investment models for  Flood Resilience: Small scale  solutions  for  community  disaster  management  committees  and  local governments",
+        "client": "Mercy Corps Nepal, Sanepa Lalitpur USAID Funded",
+        "date": "2078/79"
+      },
+      {
+        "Name": 16,
+        "namw": "Local Disaster and Climate Resilience Plan (LDCRP) Preparation of Madhuban Municipality, Bardia",
+        "client": "Practical Action, Nepal –ZFRA Funded",
+        "date": "2078/79"
+      },
+      {
+        "Name": 17,
+        "namw": "Initial  Environmental  Examination  (IEE)   of  Dachhi  –  Bhardabas  –  Alapot  – Chisapani Road (18 km), Kathmandu",
+        "client": "RCIP PIU -2, Lalitpur, GoN",
+        "date": "2078/79"
+      },
+      {
+        "Name": 18,
+        "namw": "Environmental Assessment of the Proposed Milky Way Nepal Program",
+        "client": "Heifer     International     Nepal     USAID Funded",
+        "date": "2078/79"
+      },
+      {
+        "Name": 19,
+        "namw": "Multi   Hazard   Assessment   and   Vulnerability   Mapping   in   Sindhupalchok District, Bagmati Province",
+        "client": "Ministry  of  Internal   Affairs   and  Law, Bagmati Province,GoN",
+        "date": "2078/79"
+      },
+      {
+        "Name": 20,
+        "namw": "Masterplan Preparation of City Sanitation Model",
+        "client": "Dullu Municipality, Dailekh",
+        "date": "2078/79"
+      },
+      {
+        "Name": 21,
+        "namw": "Preparation  of Detail Engineering Study, Survey, Design, Cost estimation and DPR Preparation of Baishakhe Pokahari, Shakechunga Dunga",
+        "client": "Salpasilichho        Rural        Municipality, Bhojpur",
+        "date": "2078/79"
+      },
+      {
+        "Name": 22,
+        "namw": "Imagine and Investigation of Groundwater Potential using Geophysical Method",
+        "client": "Water        Resource       Research        and Development Center ,GoN",
+        "date": "2078/79"
+      },
+      {
+        "Name": 23,
+        "namw": "Initial Environment Examination for sand gravel extraction from different banks of Tamor River",
+        "client": "Aathrai Rural Municipality, Tehrathum",
+        "date": "2078/79"
+      },
+      {
+        "Name": 24,
+        "namw": "Detailed Project Report of the Tourist Information Center",
+        "client": "Lo-Ghekar  Damodar  Kunda  RM,  Upper Mustang-Gandaki Province -Nepal",
+        "date": "2078/79"
+      },
+      {
+        "Name": 25,
+        "namw": "Tourism Development Plan Preparation of Konjyosom Rural Municipality",
+        "client": "Konjyosom         Rural         Municipality, Chaughare-Lalitpur-Bagmati Province",
+        "date": "2078/79"
+      },
+      {
+        "Name": 26,
+        "namw": "Environmental   Impacts   Assessment   of   The   BHAKARI   Activities,Karnali Province",
+        "client": "Mercy   Corps   Nepal,   Sanepa,   Lalitpur USAID Funded",
+        "date": "2078/79"
+      },
+      {
+        "Name": 27,
+        "namw": "Technical   Support for  Community   Action   for  Disaster  Response  (CADRE) Training in Surkhet District",
+        "client": "Sundar Nepal Sanstha (BNA) Birendranagar-8-Surkhet BHAKARI Project\r\nUSAID Funded",
+        "date": "2078/79"
+      },
+      {
+        "Name": 28,
+        "namw": "CADRE training in Kalikot district\r\n(Tilagupha and Khadachakra Municipality of Kalikot district) of Karnali region under \"Building\r\nHope  along  Karnali  River  Basin  (BHAKARI)  Project  supported  by  USAID/\r\nMercy Corps.”",
+        "client": "Human       Rights       &       Environment Development      Center      (HuRENDEC) Nepal\r\nKhandachakra-1, Manma Kalikot\r\nUSAID Funded",
+        "date": "2078/79"
+      },
+      {
+        "Name": 29,
+        "namw": "Initial  Environmental  Examination  (IEE)  for  proposed  project  of  sustainable",
+        "date": "2078/79"
+      },
+      {
+        "namw": "extraction/collection of sand, gravel and stone from the bank Tamor River and Khorunga Khola of Fedap Rural Municipality",
+        "client": "Fedap  Rural  Municipality,  Office  of  the Rural  Municipal  Executive,   Poklabang,\r\nTerhathum"
+      },
+      {
+        "Name": 30,
+        "namw": "Initial  Environmental  Examination  (IEE)     for  establishment  of  abattoir  in\r\nButwal Sub Metropolitan City",
+        "client": "Heifer Project Nepal,Lalitpur",
+        "date": "2078/79"
+      },
+      {
+        "Name": 31,
+        "namw": "Guideline for Climate Smart Village in Konjyosom Rural Municipality",
+        "client": "Konjyosom Rural Municipality",
+        "date": "2078/79"
+      },
+      {
+        "Name": 32,
+        "namw": "Flood  Disaster  Management  of  Sunkoshi  river  from  Balephi  bridge  to  Jure\r\nPahiro Area of Balephi Rural Municipality",
+        "client": "Balephi Rural Municipality",
+        "date": "2078/79"
+      },
+      {
+        "Name": 33,
+        "namw": "Preparation of Periodic Plan of Ghiring Rural Municipality\r\n(NPES-EERC-EcoZone JV)",
+        "client": "Ghiring Rural Municipality, Tanahun",
+        "date": "2077/78"
+      },
+      {
+        "Name": 34,
+        "namw": "Study of Soil Erosion, Landslides and Hazard Mapping as well as profiling in Gandaki Province, Nepal\r\n(Inclusive- CCER- EERC JV)",
+        "client": "GoN,        Forest        Directorate-Gandaki Province, Nepal",
+        "date": "2077/78"
+      },
+      {
+        "Name": 35,
+        "namw": "Initial Environmental Examination (IEE)  Study of Construction and Operation\r\nof  Godawari Technical School at Godawaari Municipality Ward -02, Lalitpur",
+        "client": "Godawari Municipality, Lalitpur",
+        "date": "2077/78"
+      },
+      {
+        "Name": 36,
+        "namw": "Initial  Environmental  Examination  (IEE)   of  Bokhim  –  Piple Road  (10.5km), Bhojpur",
+        "client": "Government    of    Nepal,    Ministry    of Federal Affairs and General Administration,    Department    of    Local Infrastructure, Rural Connectivity Improvement    Project    (RCIP),    Project Implementation Unit (PIU-1)\r\nJhapa",
+        "date": "2077/78"
+      },
+      {
+        "Name": 37,
+        "namw": "Initial Environmental Examination  (IEE)   of Khandbari  – Malta – Bhadaure –\r\nChautara – Dovan Road (9.940km), Sankhuwasabha"
+      },
+      {
+        "Name": 38,
+        "namw": "Initial Environmental Examination (IEE)  of Rani Nimuha Canal Service Road\r\n(22.263km), Morang"
+      },
+      {
+        "Name": 39,
+        "namw": "Initial Environmental Examination (IEE)  of Sagarmatha – Haldibari – Goldhap\r\n– Rajghad Road (10.192km), Jhapa"
+      },
+      {
+        "Name": 40,
+        "namw": "Sub   Watershed   Analysis   of   Watershed   Management   of   Balephi   Rural Municipality",
+        "client": "Balephi                                              Rural\r\nMunicipality,Sindhupalchowk",
+        "date": "2077/78"
+      },
+      {
+        "Name": 41,
+        "namw": "Efficiency of High Tech Structure and Problem Faced by Vegetable Growers",
+        "client": "Vegetable   Crop   Development   Center, Lalitpur-Nepal",
+        "date": "2077/78"
+      },
+      {
+        "Name": 42,
+        "namw": "Detailed   Feasibility   Study   and   Report   Preparation   of   Sisnekhola,Bauwa\r\nAnkekhet Irrigation Project",
+        "client": "Water       Resource       and       Irrigation",
+        "date": "2077/78"
+      },
+      {
+        "client": "Development           Division           Office,\r\nArgakhanchi-Lumbini Province"
+      },
+      {
+        "Name": 43,
+        "namw": "Agriculture  Development  Feasibility  Study  of  Ward  4,5  and  6  of  Nalgad\r\nMunicipality",
+        "client": "Nalgad Municipality, Dalli Jajarkot",
+        "date": "2077/78"
+      },
+      {
+        "Name": 44,
+        "namw": "Preparation of baseline report of Jitpur Simara Sub-Metropolitan City, Province 2 based on secondary data",
+        "client": "Jitpur    Simara    Sub-Metropolitan    City, Jitpur Bara",
+        "date": "2077/78"
+      },
+      {
+        "Name": 45,
+        "namw": "Initial    Environmental    Examination    (IEE)    of    Karaputar-Daduwa-Gilung- Salmabhanjyang Road",
+        "client": "Infrastructure      Development       Office, Besisahar-Lamjung",
+        "date": "2077/78"
+      },
+      {
+        "Name": 46,
+        "namw": "Preparation of Detailed Project Report on Masterplan and Engineering Design, Drawing  with  Cost  Estimate  of  Construction  of  an  Urban  park  at  Satdobato\r\nView Tower",
+        "client": "Urban Develoent and Building Office",
+        "date": "2077/78"
+      },
+      {
+        "Name": 47,
+        "namw": "Detailed  Project  Report  (DPR)  of  Dolalghat-Naulegaun  Deep  Boring  Water Supply Project-2",
+        "client": "Bhumlu            Rural            Municipality, Kavrepalanchowk",
+        "date": "2077/78"
+      },
+      {
+        "Name": 48,
+        "namw": "Brief Environmental Study (BES) for establishment of Konjyosom  Pratima",
+        "client": "Konjyosom Rural Municipality, Lalitpur",
+        "date": "2077/78"
+      },
+      {
+        "Name": 49,
+        "namw": "Initial Environmental Examination (IEE) for establishment of View Tower"
+      },
+      {
+        "Name": 50,
+        "namw": "Detailed  Project   Report  (DPR)  Preparation  of  Choyang  Brihat  Khanepani Yojana",
+        "client": "Makalu            Rural            Municipality, Sankhuwasabha",
+        "date": "2077/78"
+      },
+      {
+        "Name": 51,
+        "namw": "Detailed Project Report (DPR)  of Sakranti Bazar Primary Health Center of 15\r\nBed (B1)",
+        "client": "Aathrai Rural Municipality, Terhathum",
+        "date": "2077/78"
+      },
+      {
+        "Name": 52,
+        "namw": "Initial Environmental Examination (IEE) Study for establishment of industry of\r\nBiovac Nepal Pvt. Ltd.",
+        "client": "Biovac Nepal Pvt. Ltd., Kathmandu",
+        "date": "2077/78"
+      },
+      {
+        "Name": 53,
+        "namw": "Initial Environmental Examination (IEE) for collection and extraction of stone\r\nand gravel from Devaniya River",
+        "client": "Haldibari Rural Municipality, Jhapa",
+        "date": "2077/78"
+      },
+      {
+        "Name": 54,
+        "namw": "Preparation of Transportation Network Digitization of Phalewas Municipality",
+        "client": "Phalewas Municipality,Gandaki Province",
+        "date": "2077/78"
+      },
+      {
+        "Name": 55,
+        "namw": "Assessing Climate Change and Its Loss and Damage",
+        "client": "Climate  Change  Management  Division, Ministry   of   Forests   and   Environment- Singhadurbar-Kathmandu",
+        "date": "2077/78"
+      },
+      {
+        "Name": 56,
+        "namw": "Support   for   Improving   Capacity   of   Municipalities   for   Ecosystem   based Adaptation  and Community Led Initiatives for  Covid-19 Response along with DPRP   of   Byas   Municipality,   Myagde   Rural   Municipality   and   Pokhara\r\nMetropolitan City 21",
+        "client": "WWF/   Hariyo   Ban   Program/   USAID funded",
+        "date": "2077/78"
+      },
+      {
+        "Name": 57,
+        "namw": "Investigation  of  Monkey  Species  and  their  Conflict  with  Human  Interest  in\r\nDharan Sub- Metropolitan City, Nepal",
+        "client": "Dharan Sub- Metropolitan City",
+        "date": "2077/78"
+      },
+      {
+        "Name": 58,
+        "namw": "Initial   Environmental   Examination   (IEE)     for   Establishment   of  Industrial\r\nVillage in Tarakhola Rural Municipality, Baglung",
+        "client": "Tarakhola Rural Municipality",
+        "date": "2077/78"
+      },
+      {
+        "Name": 59,
+        "namw": "Initial Environmental Examination  (IEE)  for  Sustainable Extraction/Collection of  Sand,  Gravel,  Stone  from  Aandhikhola  Dovan  to  Beltadi  Thulabagar  of\r\nKaligandaki Rural Municipality",
+        "client": "Kaligandaki Rural Minicipality",
+        "date": "2077/78"
+      },
+      {
+        "Name": 60,
+        "namw": "Detailed  Engineering  Survey,  Design,  Drawing  and  Cost  Estimate  of  Bargau\r\nGanesthan Hudai Ahale Road (7.309 km)",
+        "client": "Mahalaxmi Municipality",
+        "date": "2077/78"
+      },
+      {
+        "Name": 61,
+        "namw": "Conduction of River Corridor Assessment along Aurahi River Corridor",
+        "client": "Helvetas Nepal",
+        "date": "2077/78"
+      },
+      {
+        "Name": 62,
+        "namw": "Initial   Environmental   Examination   (IEE)   for   Construction   of   Abattoir   in\r\nKohalpur Municipality, Nepal",
+        "client": "Heifer Project Nepal",
+        "date": "2077/78"
+      },
+      {
+        "Name": 63,
+        "namw": "Initial  Environmental  Examination  (IEE)   preparation  for  extraction  of  sand, aggregates and boulder  from banks of  from Balan, Baijhnath, Paua and Tawa\r\nRiver of flowing through Udayapurgadhi Rural Municipality",
+        "client": "Udayapurgadhi Rural Municipality",
+        "date": "2077/78"
+      },
+      {
+        "Name": 64,
+        "namw": "Initial   Environmental   Examination   (IEE)       for   Establishment   of   Herbs Processing Distillation Unit in Jajarkot",
+        "client": "Herbs      Production      and      Processing Company Limited",
+        "date": "2077/078"
+      },
+      {
+        "Name": 65,
+        "namw": "Initial  Environmental  Examination  (IEE)  Study  of  Balkot-Godawori  Khola- Mahendra     Shanti-Chitrapur-Daddhikot     chowk-Sikaritar-Krishna     Mandir- Tarkhal-  Antalingeshwor  Mandir-  Khadka  gau  Kalika  danda-Dhobi  khola  -\r\nRanikot Road (12.388 km)",
+        "client": "Rural Connectivity Improvement Project- GoN",
+        "date": "2077/078"
+      },
+      {
+        "Name": 66,
+        "namw": "Initial  Environmental  Examination  (IEE)  of  Upgrading  of  Puspalal  Chowk- Gachhiya Road (23.7km)\r\nMorang, Province 1\r\nIEE Study of Babiya-Birta Road Upgrading (9.3 km), Morang, Province 1",
+        "client": "Rural Connectivity Improvement Project- GoN",
+        "date": "2077/078"
+      },
+      {
+        "Name": 67,
+        "namw": "Preparation of Commercial Crop Production Knowledge Product (Booklet)",
+        "client": "Agribusiness    Promotion    Support    and Training Center",
+        "date": "2076/77"
+      },
+      {
+        "Name": 68,
+        "namw": "Preparation of Architectural and Structural Design / Drawing Cost Estimate for\r\nPrimary Health Post Building at Ramgopalpur Municipality-2",
+        "client": "Ramgopalpur Municipality,Mahottari",
+        "date": "2076/077"
+      },
+      {
+        "Name": 69,
+        "namw": "Initial  Environmental  Examination  (IEE)  preparation    for  extraction  of  sand, aggregates and boulder  from banks of Sunkoshi River  and Brahmayani River,\r\nBalephi Rural Municipality.",
+        "client": "Balephi    Rural    Municipality,    Bagmati Pradesh",
+        "date": "2076/077"
+      },
+      {
+        "Name": 70,
+        "namw": "Preparation  of  Detail  Project  Report  of  Dhobi  Health  Post-  Chitre  Chautara- Kangwa Kharanetar Road",
+        "client": "Likhu   Tamakoshi   Rural   Municipality, Bagmati Pradesh",
+        "date": "2076/077"
+      },
+      {
+        "Name": 71,
+        "namw": "Preparation of Water Use  Masterplan of Aathrai Rural Municipality",
+        "client": "Aathrai Rural Municipality, Pradesh no.1",
+        "date": "2076/077"
+      },
+      {
+        "Name": 72,
+        "namw": "Preparation of Climatological Analysis of Udayapur Rural Municipality",
+        "client": "Udayapurgadhi      Rural      Municipality, Pradesh No.1",
+        "date": "2076/077"
+      },
+      {
+        "Name": 73,
+        "namw": "Developing digital dashboard of Rapti Rural Municipality Profile.",
+        "client": "Namsaling     Community     Development Center, Ilam",
+        "date": "2076/077"
+      },
+      {
+        "Name": 74,
+        "namw": "Preparation of Detail Project Report for Establishment of Cold Store",
+        "client": "Madi Rural Municipality, Rolpa",
+        "date": "2076/077"
+      },
+      {
+        "Name": 75,
+        "namw": "Detail Survey and Design Work Goharpura – Banchauri  Road",
+        "client": "Infrastructure      Development       Office, Janakpur",
+        "date": "2076/077"
+      },
+      {
+        "Name": 76,
+        "namw": "Detailed  Feasibility Study and  Report  Preparation  of  Bhabin  Kafali  Irrigation Project, Sitganga 4/5, Argakhanchi",
+        "client": "Water       Resource       and       Irrigation Development Division, Arghakhanchi",
+        "date": "2076/077"
+      },
+      {
+        "Name": 77,
+        "namw": "Detail Engineering Survey, Design and Cost Estimate of\r\na) Katuwal Dada-Kagthalo-Arun River Road\r\nb) Arun River-Seduwa road and\r\nc) Sirutar-Baide-Ranegaun-Bhaisikharka road",
+        "client": "Makalu            Rural            Municipality, Sankhuwasabha",
+        "date": "2076/77"
+      },
+      {
+        "Name": 78,
+        "namw": "Initial  Environmental  Preparation  (IEE)  for  proposed  project  of  sustainable",
+        "client": "Gaurishankar        Rural        Municipality,",
+        "date": "2076/77"
+      },
+      {
+        "namw": "extraction of sand, gravel and stone from the bank of Tamakoshi River",
+        "client": "Dolakha"
+      },
+      {
+        "Name": 79,
+        "namw": "Environmental Assessments for sustainable extraction of Sand Gravel and Stone\r\nfrom Bank of Naya Khola, Sawa Khola and Bhuwa Khola of Tumwewa Rural Municipality, Panchthar",
+        "client": "Tumbewa  Rural  Municipality.  Province no. 1",
+        "date": "2076/77"
+      },
+      {
+        "Name": 80,
+        "namw": "Detail Engineering Survey, Design, Cost Estimation and  Report Preparation of Bhujidada-Jule dada –  Kalimati  –  Rokta  Ratokote  –  ChureKhola  – Birautte – Bhareni – Suite dada – Khulo Kharka hudai kalo chautara Road of Umakunda\r\nRural Municipality",
+        "client": "Umakunda          Rural          Municipality, Ramechhap",
+        "date": "2076/77"
+      },
+      {
+        "Name": 81,
+        "namw": "Study   on   The   Potentiality   of   Promotion   of   The   Biogas   Technology   on\r\nRanagaun and Buhar Gaun of ward number 5 of KI Singh RM- Doti.",
+        "client": "KI Singh Rural Municipality, Doti",
+        "date": "2076/77"
+      },
+      {
+        "Name": 82,
+        "namw": "Masta  Khadayat  Tourism  Development  Feasibility  Study  and  Master  Plan  of\r\nK.I. Singh Rural Municipality of Doti",
+        "client": "KI Singh Rural Municipality, Doti",
+        "date": "2076/77"
+      },
+      {
+        "Name": 83,
+        "namw": "Preparation of Agriculture Planning of ward no.5 of Aathrai rural Municipality",
+        "client": "Aathrai Rural Municipality, Terhathum",
+        "date": "2075/76"
+      },
+      {
+        "Name": 84,
+        "namw": "Environmental  assessments  of    sand  gravel,  stone  extraction/collection  from different proposed sites of Sunkoshi and Indrawati River flowing through ward\r\nno 6, 9 and 10 of Bhumlu Rural Municipality, Kavrepalanchowk",
+        "client": "Bhumlu            Rural            Municipality, Kavrepalanchowk",
+        "date": "2075/76"
+      },
+      {
+        "Name": 85,
+        "namw": "Vegetable zone profile preparation",
+        "client": "Prime minister Modernization Agriculture Program, Vegetable zone Dhankuta",
+        "date": "2075/76"
+      },
+      {
+        "Name": 86,
+        "namw": "Preparation  of  Solid  Waste  Management  Strategic  Plan,  Action  plan  and\r\nworking procedure of Kamalamai municipality of Sindhuli",
+        "client": "Kamalamai Municipality, Sindhuli",
+        "date": "2075/76"
+      },
+      {
+        "Name": 87,
+        "namw": "Study  of  Agricultural  Commodities  Collection  Centre  and  Market  for  One Product One Rural Municipality and Other Infrastructures for Gandaki Pradesh Nepal",
+        "client": "Gandaki    Pradesh,    Nepal    under    the\r\nMinister       of       Land       Management, Agricultural and Cooperative",
+        "date": "2075/76"
+      },
+      {
+        "Name": 88,
+        "namw": "Environmental  Assessments  for  sand,  gravel  and  stone  extraction/collection from different proposed sites of Seti River flowing through ward no 2 and 5 of\r\nKI Singh Rural Municipality, Doti",
+        "client": "KI Singh Rural Municipality, Doti",
+        "date": "2075/76"
+      },
+      {
+        "Name": 89,
+        "namw": "Preparation  of  Mobile  based  platform  for  Updating  HHs  Survey  and  Data Analysis and Reporting Database for Rapti and Rong Rural Municipality",
+        "client": "Namsaling     Community     Development Center, Ilam",
+        "date": "2075/76"
+      },
+      {
+        "Name": 90,
+        "namw": "Preparation of Municipality profile of Rapti Rural Municipality.",
+        "client": "Namsaling     Community     Development Center, Ilam",
+        "date": "2075/76"
+      },
+      {
+        "Name": 91,
+        "namw": "Preparation of Municipality profile of Rong Rural Municipality.",
+        "client": "Namsaling     Community     Development Center, Ilam",
+        "date": "2075/76"
+      },
+      {
+        "Name": 92,
+        "namw": "Detail   Design   and   DPR   Preparation   of   Rural   Road,   “Khamlalung   Ko Khungring-Thoklung  Chuhandada-Chhatedhunga  Ring  Road  (Ch,  0+000.00- CH. 0+26.00)\r\nInclusive Consultant (P). Ltd JV EERC (P). Ltd",
+        "client": "Aathrai Rural Municipality, Terathum",
+        "date": "2075/76"
+      },
+      {
+        "Name": 93,
+        "namw": "Initial  Environmental  Examination  (IEE)    study  for  Boulder,  Sand,  Gravel extraction  and  collection   from   Kamala   River   Section   II  within  Dudhauli\r\nMunicipality",
+        "client": "Dudhauli Municipality, Sindhuli",
+        "date": "2074/75"
+      },
+      {
+        "Name": 94,
+        "namw": "IEE  study  for  Extraction/Collection  of  Construction  material  from  Yogikuti\r\nGhat of Tinau River",
+        "client": "Butwal Sub-Metropolitan City",
+        "date": "2074/75"
+      }
+    ]
+  }
+
+
+
+ 
+
+
+ 
+  
