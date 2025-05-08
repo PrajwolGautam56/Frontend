@@ -26,9 +26,9 @@ console.log(message.current)
   return (
     <>
     <Nav />
-     
+    <div className="pt-24">
       <Contacts />
-
+    </div>
     </>
     
   );

@@ -21,7 +21,7 @@ const About = () => {
   return (
     <>
       <Nav />
-      <div className="pt-16">
+      <div className="pt-24">
         <Abouts />
         <Mission />
         <div>
