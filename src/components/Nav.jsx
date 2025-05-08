@@ -40,17 +40,17 @@ function Nav() {
     <nav
       className={`fixed w-full transition-all duration-300 ${
         isNavOpen ? "bg-white" : scrolled ? "bg-white shadow-lg" : isHomePage ? "bg-transparent" : "bg-white"
-      } z-50`}
+      } z-50 pb-4`}
     >
-      <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
+      <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4 pt-4">
         <Link to="/" className="flex items-center space-x-3 rtl:space-x-reverse">
           <img
             src="images/eercLogo.png"
-            className="w-10 h-10 mr-2"
+            className="w-12 h-12 mr-2"
             alt="Logo"
           />
           <span className={`self-center text-2xl font-semibold whitespace-nowrap ${getTextColor()}`}>
-            EERC
+             
           </span>
         </Link>
         <button

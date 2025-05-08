@@ -15,15 +15,12 @@ const Projects = () => {
   return (
     <>
       <Nav />
-      <br></br>
-      <br></br>
-      <br></br>
-    
+      <div className="pt-16">
         <Project />
         <ProjectsTable />
         <Clients />
         <FooterWithSocialMediaIcons />
-      
+      </div>
     </>
   );
 };
