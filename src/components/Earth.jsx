@@ -19,27 +19,31 @@ function Earth() {
     scene = new THREE.Scene();
 
     // Camera setup
+    const width = window.innerWidth;
+    const height = window.innerWidth < 768 ? window.innerHeight * 0.7 : window.innerHeight;
+    
+    // Camera setup
     const fov = 55;
-    const aspect = window.innerWidth / window.innerHeight;
+    const aspect = width / height;
     const near = 0.2;
     const far = 2000;
     camera = new THREE.PerspectiveCamera(fov, aspect, near, far);
     camera.position.set(0, 0, 2);
     scene.add(camera);
-
-    // Renderer setup
+    
     renderer = new THREE.WebGLRenderer({
       canvas: canvasRef.current,
       antialias: true,
       alpha: true,
     });
-    renderer.setSize(window.innerWidth, window.innerHeight);
+    
+    renderer.setSize(width, height);
     renderer.setPixelRatio(
       window.devicePixelRatio ? window.devicePixelRatio : 1
     );
     renderer.autoClear = false;
 
-    // Orbit control setup
+    // Orbit control setup - moved after camera initialization
     controls = new OrbitControls(camera, renderer.domElement);
     controls.enabled = false;
 
@@ -100,7 +104,7 @@ function Earth() {
 
     const handleResize = () => {
       const width = window.innerWidth;
-      const height = window.innerHeight;
+      const height = window.innerWidth < 768 ? window.innerHeight * 0.7 : window.innerHeight;
 
       camera.aspect = width / height;
       camera.updateProjectionMatrix();
@@ -112,12 +116,19 @@ function Earth() {
 
       const cloudScaleFactor = width < 1250 ? 0.63 : 1;
       cloudMesh.scale.set(cloudScaleFactor, cloudScaleFactor, cloudScaleFactor);
-      const padding = width < 1200 ? -0.5 : 0; // Padding when screen size is below 1200
-
-      earthMesh.position.x = 1 + padding;
-      earthMesh.position.y = 0.1; // Adjust Earth's y position
-      cloudMesh.position.x = 1 + padding;
-      cloudMesh.position.y = 0.1;
+      
+      // Adjust positions based on screen width
+      if (width < 768) { // Mobile view
+        camera.position.set(0, 0, 2);
+        earthMesh.position.set(0, 0, 0);
+        cloudMesh.position.set(0, 0, 0);
+      } else { // Laptop view
+        const padding = width < 1200 ? -0.5 : 0;
+        camera.position.set(0, 0, 2);
+        earthMesh.position.set(1 + padding, 0.1, 0);
+        cloudMesh.position.set(1 + padding, 0.1, 0);
+      }
+      
       render();
     };
 
@@ -148,10 +159,10 @@ function Earth() {
   };
 
   return (
-    <div className="webgl earth min-h-screen bg-black z-49 relative">
+    <div className="webgl earth min-h-[50vh] sm:min-h-screen bg-black z-49 relative w-full">
       <canvas
         ref={canvasRef}
-        className="webgl earth hidden md:block  lg:w-2/3 lg:mx-auto sm:hidden "
+        className="webgl earth w-full lg:w-2/3 lg:mx-auto"
       />
     </div>
   );

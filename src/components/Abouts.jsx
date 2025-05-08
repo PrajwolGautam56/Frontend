@@ -3,11 +3,10 @@ import "../index.css"
 
 export default function Abouts() {
   return (
-    <section className="py-28 aboutSection ">
-      <div className="container mx-auto text-center ">
-        <h2 className="font-sans Montserrat  text-2xl font-bold text-amber-500	  mb-8">
+    <section className="py-28 aboutSection md:py-28 pt-52 pb-32">
+      <div className="container mx-auto text-center px-6 md:px-0">
+        <h2 className="font-sans Montserrat text-2xl font-bold text-amber-500 mb-12">
           About Us
-          
         </h2>
         <p className=" font-sans	 Montserrat text-2xl  text-gray-700   font-medium	 mx-auto">
           <span className="text-[#5DB85E] ">  </span>

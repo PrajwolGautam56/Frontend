@@ -28,19 +28,21 @@ export default function Home() {
   return (
     <div className="landing-home">
       <Nav className="z-50" />
-      <div className="flex flex-row">
+      <div className="flex flex-row pt-16">
         <div className="basis-5/5 -mt-12">
-          <div className="banner-content-two min-[10px]:pl-5 min-[400px]:px-8 min-[1250px]:px-28 pt-40 firstView text-[#ffffff]">
+          <div className="banner-content-two min-[10px]:pl-5 min-[400px]:px-8 min-[1250px]:px-28 pt-20 md:pt-40 firstView text-[#ffffff]">
             <br></br> <br></br>
             <br></br> <br></br>
             <br></br><br></br>
             <span className="sub-title sm:text-md lg:text-xl">
             </span>
-            <h2 className="title py-4 font-extrabold titleFont sm:text-6xl md:text-5xl min-[1200px]:text-5xl tracking-wide">
-              Building Resilience, <br /> Protecting our
-              <span className="text-[#5DB85E]"> Planet.</span>
-              <br />
-            </h2>
+            <div className="backdrop-blur-[2px] bg-black/10 rounded-lg p-6 md:p-8">
+              <h2 className="title py-4 font-extrabold titleFont text-center sm:text-left text-5xl sm:text-6xl md:text-5xl min-[1200px]:text-5xl tracking-wide leading-tight">
+                Building Resilience, <br /> Protecting our
+                <span className="text-[#5DB85E]"> Planet.</span>
+                <br />
+              </h2>
+            </div>
             <div className="banner-content-bottom flex pt-12">
             </div>
           </div>
@@ -56,14 +58,26 @@ export default function Home() {
 
         <div className="earthComponent">
           <Earth />
-          <Abouts />
-          <ServicesDetail />
-          <Project />
-          <Area />
-          <Ourteam />
-          <Clients />
-          <Newsletter />
-          <FooterWithSocialMediaIcons />
+          <div className="md:hidden relative z-10">
+            <Abouts />
+            <ServicesDetail />
+            <Project />
+            <Area />
+            <Ourteam />
+            <Clients />
+            <Newsletter />
+            <FooterWithSocialMediaIcons />
+          </div>
+          <div className="hidden md:block">
+            <Abouts />
+            <ServicesDetail />
+            <Project />
+            <Area />
+            <Ourteam />
+            <Clients />
+            <Newsletter />
+            <FooterWithSocialMediaIcons />
+          </div>
         </div>
       </div>
     </div>

@@ -8,9 +8,10 @@ function Team() {
   return (
     <div>
         <Nav />
-        <Ourteam />
-        <Teamtable />
-
+        <div className="pt-16">
+            <Ourteam />
+            <Teamtable />
+        </div>
     </div>
   )
 }
